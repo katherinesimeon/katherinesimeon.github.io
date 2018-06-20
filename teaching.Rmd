@@ -9,7 +9,7 @@ title: "Teaching"
 [Searle Center for the Advancement of Teaching & Learning](https://www.northwestern.edu/searle/index.html)      
   
 I've led interactive workshops on the following topics:  
-
+  
 * Communication Strategies for the Multilingual Classroom (Winter 2018)  
 * Audienced-Centered TAing in Communication Sciences & Disorders (Summer 2017)  
 * Facilitating Learning with Small Group Work (Summer 2017)  
@@ -47,7 +47,7 @@ speech. After this course, students will be familiarized with components of spee
 International Phonetic Alphabet, and will use this awareness to be stronger verbal communicators.  
   
   
-**Course Objectives:**
+**Course Objectives:**  
 Upon completion of this class, participants will be able to:  
 
 1. Identify components of speech perception and production.  
