@@ -1,0 +1,20 @@
+name: "Katherine Simeon"
+output_dir: "."
+navbar:
+  title: "Katherine Simeon"
+  left:
+    - text: "Teaching"
+      href: teaching.html
+    - text: "Publications"
+      href: publications.html
+  right:
+    - icon: fa-github fa-lg
+      href: http://github.com/katherinesimeon
+    - icon: fa-twitter fa-lg
+      href: https://twitter.com/kitkatbar429
+    - icon: fa-linkedin fa-lg
+      href: https://www.linkedin.com/in/katherinesimeon/
+output:
+  html_document:
+    theme: cosmo
+    css: 'styles.css'
