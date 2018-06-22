@@ -18,16 +18,6 @@ How to pronounce my name: **[&#712;k&#230;&#952;&#633;&#618;n &#712;s&#618;mi&#6
   \  
   
   
-***  
-  
-## Affiliations  
-
-```{r, echo = FALSE, out.width="20%"}
-library(knitr)
-myimages<-list.files("images/affiliations", pattern = ".png", full.names = TRUE)
-include_graphics(myimages)
-```
-
 *** 
 ## Education  
 
@@ -37,6 +27,32 @@ include_graphics(myimages)
 
 #### [Johns Hopkins University](https://www.jhu.edu/) 
 #### B.A. 2013, Cognitive Science  
+  
+  
+  \  
+  
+  
+***  
+  
+## Affiliations  
 
+
+```{r, echo = FALSE}
+library(htmltools)
+thumbnail <- function(title, img, href, caption = FALSE) {
+  div(class = "col-sm-3",
+      a(class = "thumbnail", title = title, href = href,
+        img(src = img),
+        div(class = ifelse(caption, "caption", ""),
+          ifelse(caption, title, "")
+        )
+      )
+  )
+}
+thumbnail("Northwestern", "images/affiliations/NU.png", "https://www.northwestern.edu/")
+thumbnail("Hearing & Language Lab", "images/affiliations/HLL.png", "http://hll.northwestern.edu/")
+thumbnail("GWAN", "images/affiliations/GWAN.png", "http://sites.northwestern.edu/gwan/")
+thumbnail("R-Ladies", "images/affiliations/RLadies.png", "https://rladieschicago.org/")
+```
 
  

@@ -44,6 +44,8 @@ As a teaching assistant, I've given guest lectures on the following topics:
   
 **Instructor**, Advancement Via Individual Determination (AVID) Senior College Experience Program, [Evanston Township High School](https://www.eths.k12.il.us/eths)  
   
+<img src="images/IPA-Chart.png" style="width:28%; margin: 5px 10px" align="right">
+  
 During the Winter 2018 quarter, I designed and implemented a course titled: ***Say What?* An Introduction to Speech Science**. The course aimed to introduce high school seniors to basic concepts in acoustics and speech science. I'm in the process of creating a github repo with the demos used for this course (stay tuned!), but you can see the course description and objectives below:  
   
 **Course Description:**  
