@@ -3,7 +3,7 @@ title: "Teaching"
 ---
 ***  
   
-### At Northwestern 
+## At Northwestern 
   
 **Workshop Leader**, Graduate & Postdoctoral Workshop Programs  
 [Searle Center for the Advancement of Teaching & Learning](https://www.northwestern.edu/searle/index.html)      
@@ -40,7 +40,7 @@ As a teaching assistant, I've given guest lectures on the following topics:
   
   \  
 
-### Other Teaching	
+## Other Teaching	
   
 **Instructor**, Advancement Via Individual Determination (AVID) Senior College Experience Program, [Evanston Township High School](https://www.eths.k12.il.us/eths)  
   
@@ -68,7 +68,7 @@ movements.
 
 ***  
   
-### Resources for Phonetics & Speech Science  
+## Resources for Phonetics & Speech Science  
   
 I love thinking of new ways to teach phonetics and develop proficiency in the International Phonetic Alphabet. Here are some external resources I share with my students:  
   

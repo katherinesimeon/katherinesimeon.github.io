@@ -8,7 +8,7 @@ title: "Publications"
 Grieco-Calub, T.M., **Simeon, K.M.**, Snyder, H.E., & Lew-Williams, C. (2017). Word segmentation from noise-band vocoded speech, *Language, Cognition and Neuroscience*. 32:10, 1344-1356. doi: 10.1080/23273798.2017.1354129 [[pdf](files/2017_Vocoded_LCN.pdf)] 
   
 ***  
-### Conference Presentations  
+## Conference Presentations  
   
 **Simeon, K.M.** & Grieco-Calub, T.M. (2018). *Effects of speech competitors on encoding features of novel word-object pairs*. Poster presented at the 175th Meeting of the Acoustical Society of America, Minneapolis, MN, May 2018. [[poster](files/2018_ASA_MN_Simeon.pdf)]     
   
