@@ -2,7 +2,7 @@
 title: "Research"
 ---
   
-My research investigates how we are able to intake, interpret, and respond to speech rapidly and efficiently during everyday conversation. I am interested in how prior experience with sound and language impacts spoken language processing --especially in children, who are still developing critical language skills. Additionally, I study how we employ different strategies when the speech signal is degraded, either due to background noise or a hearing loss. Ultimately, I hope that my work will inform communication strategies and educational practices for individuals with hearing loss.   
+My research investigates how we are able to perceive, interpret, and respond to speech rapidly and efficiently during everyday conversation. I am interested in how prior experience with sound and language impacts spoken language processing --especially in children, who are still developing critical language skills. Additionally, I study how we employ different strategies when the speech signal is degraded, either due to background noise or a hearing loss. Ultimately, I hope that my work will inform communication strategies and educational practices for individuals with hearing loss.   
   
 ***  
 ## Publications
