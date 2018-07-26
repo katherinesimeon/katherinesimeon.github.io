@@ -1,7 +1,11 @@
 ---
-title: "Publications"
+title: "Research"
 ---
+  
+My research investigates how we are able to intake, interpret, and respond to speech rapidly and efficiently during everyday conversation. I explore how prior knowledge and other cognitive mechanisms facilitate spoken language processing. Additionally, I am interested in how people employ different strategies when the speech signal is degraded, from background noise or a hearing loss. Overall, I am fascinated by hearing science, cognitive science, and linguistics and hope that my work will ultimately inform communication strategies for individuals with hearing loss.   
+  
 ***  
+## Publications
   
 **Simeon, K.M.**, Bicknell, K., & Grieco-Calub, T.M. (2018). Belief shift or only facilitation: how semantic expectancy affects processing of speech degraded by background noise, *Frontiers in Psychology*. 9:116. doi: 10.3389/fpsyg.2018.00116 [[pdf](files/2018_Context_Frontiers.pdf)]  
   \    

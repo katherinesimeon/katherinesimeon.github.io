@@ -5,8 +5,10 @@ navbar:
   left:
     - text: "Teaching"
       href: teaching.html
-    - text: "Publications"
+    - text: "Research"
       href: publications.html
+    - text: "CV"
+      href: https://katherinesimeon.github.io/ks-cv/
   right:
     - icon: fa-github fa-lg
       href: http://github.com/katherinesimeon
